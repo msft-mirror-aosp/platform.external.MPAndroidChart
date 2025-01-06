@@ -2,3 +2,4 @@ hanxu@google.com
 pierreqian@google.com
 chaohuiw@google.com
 kellyz@google.com
+include platform/system/core:/janitors/OWNERS #{LAST_RESORT_SUGGESTION}
